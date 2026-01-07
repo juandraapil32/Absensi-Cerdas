@@ -1,0 +1,5 @@
+{
+  "name": "AbsensiCerdas",
+  "description": "Aplikasi rekap kehadiran siswa dengan integrasi Google Sheets dan analisis AI harian menggunakan Gemini.",
+  "requestFramePermissions": []
+}
